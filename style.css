@@ -1,0 +1,48 @@
+/* Warna latar belakang halaman */ /* 202431144 Armando Sianipar */
+body {
+    background-color: #f8f9fa; /* 202431144 Armando Sianipar */
+}
+
+/* Header card default */ /* 202431144 Armando Sianipar */
+.card-header {
+    background-color: #0d6efd; /* 202431144 Armando Sianipar */
+    color: white; /* 202431144 Armando Sianipar */
+}
+
+/* Label form dibuat tebal */ /* 202431144 Armando Sianipar */
+.form-label { /* 202431144 Armando Sianipar */
+    font-weight: bold; /* 202431144 Armando Sianipar */
+}
+
+/* Warna hijau untuk status lulus */ /* 202431144 Armando Sianipar */
+.bg-success-custom { /* 202431144 Armando Sianipar */
+    background-color: #198754 !important;
+}
+
+/* Warna merah untuk status tidak lulus */ /* 202431144 Armando Sianipar */
+.bg-danger-custom { /* 202431144 Armando Sianipar */
+    background-color: #dc3545 !important; /* 202431144 Armando Sianipar */
+}
+
+/* Teks status lulus */ /* 202431144 Armando Sianipar */
+.text-lulus { /* 202431144 Armando Sianipar */
+    color: #198754; /* 202431144 Armando Sianipar */
+    font-weight: bold; /* 202431144 Armando Sianipar */
+}
+
+/* Teks status tidak lulus */ /* 202431144 Armando Sianipar */
+.text-gagal { /* 202431144 Armando Sianipar */
+    color: #dc3545; /* 202431144 Armando Sianipar */
+    font-weight: bold; /* 202431144 Armando Sianipar */
+}
+
+/* Style alert error */ /* 202431144 Armando Sianipar */
+.alert-pink { /* 202431144 Armando Sianipar */
+    background-color: #f8d7da;
+    color: #842029; /* 202431144 Armando Sianipar */
+    border: 1px solid #f5c2c7;
+    border-radius: 0.25rem; /* 202431144 Armando Sianipar */
+    padding: 1rem; /* 202431144 Armando Sianipar */
+    margin-top: 1rem; /* 202431144 Armando Sianipar */
+    width: 100%; /* 202431144 Armando Sianipar */
+}
