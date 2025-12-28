@@ -1,0 +1,26 @@
+body { /* 202431144 ARMANDO SIANIPAR */
+    background-color: #f8f9fa; /* Memberi warna latar belakang halaman */ /* 202431144 ARMANDO SIANIPAR */
+}
+.form-label { /* 202431144 ARMANDO SIANIPAR */
+    font-weight: bold; /* Membuat teks label lebih tebal */ /* 202431144 ARMANDO SIANIPAR */
+    font-size: 0.95rem; /* Mengatur ukuran font label */ /* 202431144 ARMANDO SIANIPAR */
+} /* 202431144 ARMANDO SIANIPAR */
+.bg-success-custom { /* 202431144 ARMANDO SIANIPAR */
+    background-color: #198754 !important; /* Warna hijau untuk status lulus */
+} /* 202431144 ARMANDO SIANIPAR */
+.bg-danger-custom { /* 202431144 ARMANDO SIANIPAR */
+    background-color: #dc3545 !important; /* Warna merah untuk status tidak lulus */
+} /* 202431144 ARMANDO SIANIPAR */
+.text-lulus { /* 202431144 ARMANDO SIANIPAR */
+    color: #198754; /* Warna teks hijau untuk lulus */
+} /* 202431144 ARMANDO SIANIPAR */
+.text-gagal { /* 202431144 ARMANDO SIANIPAR */
+    color: #dc3545; /* Warna teks merah untuk gagal */
+} /* 202431144 ARMANDO SIANIPAR */
+.alert-pink { /* 202431144 ARMANDO SIANIPAR */
+    background-color: #f8d7da; /* Warna latar alert */
+    color: #842029; /* Warna teks alert */
+    border: 1px solid #f5c2c7; /* Border alert */
+    border-radius: 0.25rem; /* Membulatkan sudut alert */
+    padding: 1rem; /* Jarak dalam alert */
+} /* 202431144 ARMANDO SIANIPAR */
